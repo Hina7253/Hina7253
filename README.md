@@ -31,8 +31,9 @@ If you like clean code, beginner-friendly projects, and growth-focused learning 
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hina7253&show_icons=true&count_private=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hina7253&show_icons=true&count_private=true&hide_border=true&bg_color=45deg,0f2027,203a43,2c5364&title_color=ffffff&text_color=EAEAEA&icon_color=F9D423" height="170"/>
 </p>
+
 
 
 

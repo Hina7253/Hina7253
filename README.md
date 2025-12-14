@@ -30,10 +30,10 @@ If you like clean code, beginner-friendly projects, and growth-focused learning 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hina7253&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hina7253&layout=compact&theme=radical" height="180px"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hina7253&show_icons=true&count_private=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" height="170"/>
 </p>
+
 
 ---
 

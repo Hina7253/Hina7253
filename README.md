@@ -3,8 +3,7 @@
 Welcome to my **coding space** ✨  
 I’m a **BCA 3rd Year student** and an **aspiring software developer** who loves learning, building projects, and improving every day 🚀  
 
-If you like clean code, beginner-friendly projects, and growth-focused learning — you’re at the right place!
-
+I’m a student exploring programming and gradually building my skills through practice.
 ---
 
 ## 🚀 What Drives Me

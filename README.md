@@ -89,7 +89,7 @@ A **machine learning based prediction app** created using Python to understand M
 ## 🤓 Fun Facts
 - 💻 I enjoy turning confusion into clarity (slowly but surely 😄)
 - 📚 Always trying to improve my English & coding skills  
-- 💙 I enjoy learning new things, even if it takes time
+- 🐞 Bugs teach me more than tutorials 
 
 ---
 

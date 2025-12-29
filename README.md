@@ -69,6 +69,22 @@ A **machine learning based prediction app** created using Python to understand M
 
 </details>
 
+<details>
+<summary>💱 Currency Converter (Java)</summary>
+
+A **Java-based currency converter application** that converts one currency to another using predefined exchange rates.  
+This project helped me understand **OOP concepts** and basic data handling in Java.
+
+**Tech Stack:** Java  
+
+#### ✨ Features
+- Convert between multiple currencies  
+- Uses predefined exchange rates  
+- Simple and beginner-friendly logic  
+- Console-based application
+
+</details>
+
 ---
 
 ## 🎯 Goals

@@ -31,7 +31,7 @@ I’m on a learning journey, improving my coding skills and building projects al
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hina7253&show_icons=true&count_private=true&hide_border=true&bg_color=45deg,0f2027,203a43,2c5364&title_color=ffffff&text_color=EAEAEA&icon_color=F9D423" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hina7253&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=EAEAEA&icon_color=F9D423" height="170"/>
 </p>
 
 

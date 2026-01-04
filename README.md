@@ -36,7 +36,7 @@ I’m on a learning journey, improving my coding skills and building projects al
 
 ---
 
-
+## 🔧 Featured Projects
 
 <details>
 <summary>🛒 Amazon Clone</summary>

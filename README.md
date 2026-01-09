@@ -82,6 +82,26 @@ This project helped me understand **OOP concepts** and basic data handling in Ja
 
 </details>
 
+<details>
+<summary>🧠 Java Code Analyzer & Issue Generator</summary>
+
+A **Java-based tool** that analyzes user-provided Java code, detects common errors,  
+and automatically generates **issues with suggestions** to help improve the code.
+
+This project helped me understand **error handling, code analysis logic, and problem-solving in Java**.
+
+**Tech Stack:** Java  
+
+#### ✨ Features
+- Accepts Java code as input  
+- Detects common syntax and logical errors  
+- Generates issue-style error reports  
+- Provides beginner-friendly suggestions for improvement  
+- Learning-focused and console-based application
+
+</details>
+
+
 ---
 
 ## 🎯 Goals

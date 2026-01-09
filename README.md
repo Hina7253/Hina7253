@@ -39,20 +39,6 @@ I’m on a learning journey, improving my coding skills and building projects al
 ## 🔧 Featured Projects
 
 <details>
-<summary>🛒 Amazon Clone</summary>
-
-A simple **Amazon homepage clone** built using HTML & CSS to practice frontend fundamentals.
-
-**Tech Stack:** HTML, CSS  
-
-#### ✨ Features
-- Clean UI layout  
-- Responsive design basics  
-- Beginner-friendly project
-
-</details>
-
-<details>
 <summary>🤖 ML Prediction App</summary>
 
 A **machine learning based prediction app** created using Python to understand ML basics and real-world implementation.

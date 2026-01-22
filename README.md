@@ -1,4 +1,4 @@
-## 👋 Hey, I’m Hi
+## 👋 Hey, I’m Hin
 
 Welcome to my **Coding space!** ✨ 
 I’m a **BCA 3rd Year student** and an **aspiring software developer** who loves learning, building projects, and improving every day 🚀  

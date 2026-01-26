@@ -54,20 +54,6 @@ This project helped me understand **error handling, code analysis logic, and pro
 - Generates issue-style error reports  
 - Provides beginner-friendly suggestions for improvement  
 - Learning-focused and console-based application
-
-</details>
-<details>
-<summary>🤖 ML Prediction App</summary>
-
-A **machine learning based prediction app** created using Python to understand ML basics and real-world implementation.
-
-**Tech Stack:** Python, ML Libraries  
-
-#### ✨ Features
-- Simple prediction logic  
-- Beginner-level ML workflow  
-- Learning-focused project
-
 </details>
 
 <details>
@@ -83,6 +69,20 @@ This project helped me understand **OOP concepts** and basic data handling in Ja
 - Uses predefined exchange rates  
 - Simple and beginner-friendly logic  
 - Console-based application
+
+</details>
+
+<details>
+<summary>🤖 ML Prediction App</summary>
+
+A **machine learning based prediction app** created using Python to understand ML basics and real-world implementation.
+
+**Tech Stack:** Python, ML Libraries  
+
+#### ✨ Features
+- Simple prediction logic  
+- Beginner-level ML workflow  
+- Learning-focused project
 
 </details>
 

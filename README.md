@@ -111,6 +111,5 @@ A **machine learning based prediction app** created using Python to understand M
 
 ---
 
-### Thanks for visiting my profile 😊  
-⭐ Feel free to explore my repositories and connect!
+
 

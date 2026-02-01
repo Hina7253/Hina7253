@@ -39,7 +39,7 @@ I’m on a learning journey, improving my coding skills and building projects al
 ## 🔧 Featured Projects
 
 <details>
-<summary>🧠 Java Code Analyzer & Issue Generator</summary>
+<summary>🧠 Java Code Review & Issue Generator</summary>
 
 A **Java-based tool** that analyzes user-provided Java code, detects common errors,  
 and automatically generates **issues with suggestions** to help improve the code.

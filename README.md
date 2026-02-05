@@ -110,6 +110,9 @@ A **machine learning based prediction app** created using Python to understand M
 - 🐞 Bugs teach me more than tutorials 
 
 ---
+### Thanks for visiting my profile 😊  
+⭐ Feel free to explore my repositories and connect!
+
 
 
 

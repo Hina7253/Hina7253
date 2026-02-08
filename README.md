@@ -32,6 +32,7 @@ I’m on a learning journey, improving my coding skills and building projects al
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 
 

@@ -59,7 +59,7 @@ This project helped me understand **error handling, code analysis logic, and pro
 
 **Tech Stack:** Java  
 
-
+#### ✨ Features
 - Accepts Java code as input  
 - Detects common syntax and logical errors  
 - Generates issue-style error reports  

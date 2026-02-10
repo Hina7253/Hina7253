@@ -7,7 +7,7 @@ I’m on a learning journey, improving my coding skills and building projects al
 
 ---
 
-## 🚀 What Drives Me
+
 
 - 💻 Learning new technologies step by step 
 - 🧠 Improving problem-solving & coding skills  

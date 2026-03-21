@@ -106,6 +106,8 @@ This project helps raise awareness about the environmental impact of web applica
 
 **Tech Stack:** HTML, CSS, JavaScript, React, Java, Springboot, Hibernate, JPA
 
+#### ✨ Features
+
 
 ---
 

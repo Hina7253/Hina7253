@@ -108,7 +108,9 @@ This project helps raise awareness about the environmental impact of web applica
 
 #### ✨ Features
 - Analyze any website’s carbon emission  
-- Provides estimated carbon footprint data 
+- Provides estimated carbon footprint data
+-  Simple and user-friendly interface  
+- Promotes eco-friendly and sustainable web practices 
 
 
 ---

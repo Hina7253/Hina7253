@@ -99,6 +99,8 @@ A **machine learning based prediction app** created using Python to understand M
 - Learning-focused project
 
 </details>
+<details>
+<summary>🌱 Carbon Footprint Tracker</summary>
 
 ---
 

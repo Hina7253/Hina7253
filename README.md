@@ -1,10 +1,10 @@
-## 👋 Hey, I’m Hina!
+## 👋 Hey, I’m a coder
 
 Welcome to my **Coding space!** ✨ 
 I’m a **BCA 3rd Year student** and an **aspiring software developer** who loves learning, building projects, and improving every day 🚀  
 
 I’m on a learning journey, improving my coding skills and building projects along the way.
-
+ 
 ---
 
 ## 🚀 What Drives Me

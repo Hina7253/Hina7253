@@ -116,7 +116,7 @@ This project helps raise awareness about the environmental impact of web applica
 
 ---
 
-
+## 🎯 Goals
 
 - 💼 Crack a good **software development internship**  
 - 🌱 Master **Java, React & Spring Boot**  

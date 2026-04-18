@@ -52,6 +52,8 @@ I’m on a learning journey, improving my coding skills and building projects al
 ---
 
 ## 🔧 Featured Projects
+<details>
+<summary>🌱 Digital Carbon Footprint Tracker for Websites</summary>
 
 <details>
 <summary>🧠 Java Code Review & Issue Generator</summary>

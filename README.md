@@ -60,6 +60,10 @@ It helps developers understand how their design and resource usage affect sustai
 
 When a user enters a website URL, the system analyzes data usage such as images, videos, scripts, and API calls.  
 It then estimates the **energy consumption** required to load the website and converts it into **CO₂ emissions per visit** and on a **yearly basis** based on traffic.
+- Suggests optimizations for eco-friendly web design  
+- Promotes sustainable and energy-efficient development  
+
+</details>
 
 #### ✨ Features
 - Analyze any website using its URL  

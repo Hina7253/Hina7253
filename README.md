@@ -54,6 +54,12 @@ I’m on a learning journey, improving my coding skills and building projects al
 ## 🔧 Featured Projects
 <details>
 <summary>🌱 Digital Carbon Footprint Tracker for Websites</summary>
+A **web-based application** that analyzes any website’s **environmental impact** by estimating its carbon emissions.  
+It helps developers understand how their design and resource usage affect sustainability.
+
+When a user enters a website URL, the system analyzes data usage such as images, videos, scripts, and API calls.  
+It then estimates the **energy consumption** required to load the website and converts it into **CO₂ emissions per visit** and on a **yearly basis** based on traffic.
+
 
 <details>
 <summary>🧠 Java Code Review & Issue Generator</summary>

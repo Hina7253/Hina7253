@@ -60,7 +60,7 @@ It helps developers understand how their design and resource usage affect sustai
 When a user enters a website URL, the system analyzes data usage such as images, videos, scripts, and API calls.  
 It then estimates the **energy consumption** required to load the website and converts it into **CO₂ emissions per visit** and on a **yearly basis** based on traffic.
 
-
+#### ✨ Features
 - Analyze any website using its URL  
 - Estimates energy consumption and CO₂ emissions  
 - Calculates carbon impact per visit and yearly  

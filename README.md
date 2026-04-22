@@ -43,7 +43,7 @@ I’m on a learning journey, improving my coding skills and building projects al
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Hina7253&style=flat-square)
 ---
 
-
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Hina7253&show_icons=true&count_private=true&theme=radical" />
 </p>

@@ -78,7 +78,7 @@ and automatically generates **issues with suggestions** to help improve the code
 
 This project helped me understand **error handling, code analysis logic, and problem-solving in Java**.
 
-**Tech Stack:** Java  
+
 
 #### ✨ Features
 - Accepts Java code as input  

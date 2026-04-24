@@ -84,6 +84,7 @@ Springboot
 Hibernate
 JPA
 Mysql
+React
 
 #### ✨ Features
 - Accepts Java code as input  

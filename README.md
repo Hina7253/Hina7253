@@ -81,6 +81,9 @@ This project helped me understand **error handling, code analysis logic, and pro
 **Tech Stack:** 
 Java  
 Springboot
+Hibernate
+JPA
+Mysql
 
 #### ✨ Features
 - Accepts Java code as input  

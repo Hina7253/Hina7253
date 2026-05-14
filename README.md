@@ -146,6 +146,8 @@ These programs helped me explore teamwork, development workflows, and real-world
 - 🌐 Participated in **OSCG 2026**
 - 🚀 Currently contributing in **GirlScript Summer of Code (GSSoC)**
 
+ ✨ Continuously learning, building, and growing through open source.
+
 ## 🎯 Goals
 
 - 💼 Crack a good **software development internship**  

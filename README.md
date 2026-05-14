@@ -148,6 +148,8 @@ These programs helped me explore teamwork, development workflows, and real-world
 
  ✨ Continuously learning, building, and growing through open source.
 
+ ---
+
 ## 🎯 Goals
 
 - 💼 Crack a good **software development internship**  

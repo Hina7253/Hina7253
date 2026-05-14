@@ -143,6 +143,7 @@ This project helps raise awareness about the environmental impact of web applica
 I enjoy learning through collaboration and contributing to the open-source community.  
 These programs helped me explore teamwork, development workflows, and real-world projects.
 - ❄️ Participated in **Elite Code Winter of Code 2026**
+- 🌐 Participated in **OSCG 2026**
 
 ## 🎯 Goals
 

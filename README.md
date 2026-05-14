@@ -144,6 +144,7 @@ I enjoy learning through collaboration and contributing to the open-source commu
 These programs helped me explore teamwork, development workflows, and real-world projects.
 - ❄️ Participated in **Elite Code Winter of Code 2026**
 - 🌐 Participated in **OSCG 2026**
+- 🚀 Currently contributing in **GirlScript Summer of Code (GSSoC)**
 
 ## 🎯 Goals
 
